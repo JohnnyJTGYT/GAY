@@ -1,10 +1,10 @@
 {
-  "clientToken": "Client Token do Bot",
-  "clientId": "Client ID do Bot",
-  "clientSecret": "Client Secret do Bot",
+  "clientToken": "NDc0ODkxNjM3MDU1NTUzNTM5.Dl27wg.rb7R7zons4vP-73aPdmmpGtm9NI",
+  "clientId": "474891637055553539",
+  "clientSecret": "e4AyG8_bSRo6EsPbxNeebNRddZJj88gE",
   "youtubeKey": "Key da API do YouTube, usado no comando \"+youtube\"",
-  "ownerId": "ID do dono do bot, usado para alguns comandos \"especiais\"",
-  "websiteUrl": "URL do website da Loritta, coloque uma / no final!",
+  "ownerId": "284599116976357376",
+  "websiteUrl": "https://pastebin.com/raw/WGXr8SFG",
   "frontendFolder": "Pasta do frontend da Loritta, coloque uma / no final!",
   "mercadoPagoClientId": "Client ID do MercadoPago, usado na página de doação",
   "mercadoPagoClientToken": "Client Token do MercadoPago, usado na página de doação"
